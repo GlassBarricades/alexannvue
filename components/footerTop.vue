@@ -30,9 +30,10 @@
                   </v-list-item-icon>
 
                   <v-list-item-content>
-                    <v-list-item-title>ADDRESS</v-list-item-title>
+                    <v-list-item-title>Адрес</v-list-item-title>
                     <v-list-item-subtitle
-                      >1400 Main Street, Orlando, FL 79938</v-list-item-subtitle
+                      >Жодино, Рокоссовского, д. 16, корпус
+                      1</v-list-item-subtitle
                     >
                   </v-list-item-content>
                 </v-list-item>
@@ -45,10 +46,7 @@
                   <v-list-item-content>
                     <v-list-item-title>EMAIL</v-list-item-title>
                     <v-list-item-subtitle
-                      >info@example.com</v-list-item-subtitle
-                    >
-                    <v-list-item-subtitle
-                      >support@example.com</v-list-item-subtitle
+                      >info@aleksann.by</v-list-item-subtitle
                     >
                   </v-list-item-content>
                 </v-list-item>
@@ -61,9 +59,16 @@
                   </v-list-item-icon>
 
                   <v-list-item-content>
-                    <v-list-item-title>PHONE</v-list-item-title>
-                    <v-list-item-subtitle>(323) 555-6789</v-list-item-subtitle>
-                    <v-list-item-subtitle>(650) 555-1234</v-list-item-subtitle>
+                    <v-list-item-title>Телефоны</v-list-item-title>
+                    <v-list-item-subtitle
+                      >A1:+ 375 29 695-21-40;</v-list-item-subtitle
+                    >
+                    <v-list-item-subtitle
+                      >A1:+ 375 29 615-21-40;</v-list-item-subtitle
+                    >
+                    <v-list-item-subtitle
+                      >A1, Viber: + 375 29 605-21-40;</v-list-item-subtitle
+                    >
                   </v-list-item-content>
                 </v-list-item>
                 <v-divider></v-divider>
@@ -89,7 +94,7 @@
           <v-divider vertical></v-divider>
         </v-col>
         <v-col cols="12" md="5" class="py-12">
-          <h3 class="mb-8">SEND YOUR MESSAGE</h3>
+          <h3 class="mb-8">Напишите нам сообщение</h3>
           <footerContactForm />
         </v-col>
       </v-row>
