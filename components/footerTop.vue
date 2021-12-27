@@ -16,10 +16,9 @@
             </v-col>
             <v-col cols="12">
               <p class="mt-8 text-justify" style="max-width: 400px">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo
-                pariatur quidem, quis modi iure nihil commodi suscipit, corporis
-                dicta adipisci, voluptatum quia cupiditate. Nulla minus
-                voluptatum nostrum deleniti, asperiores facere.
+                Мы обновляем каталоги и продукцию, чтобы Вам было комфортно с
+                нами! Цену к товарам можно уточнить у менеджера магазина по
+                телефонам ниже
               </p>
             </v-col>
             <v-col cols="12">

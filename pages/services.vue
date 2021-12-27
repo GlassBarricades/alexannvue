@@ -52,7 +52,7 @@ export default {
       heroAlt: [
         {
           src: 'pexels-ekaterina-bolovtsova-4048767.jpg',
-          heading: ' Services ',
+          heading: ' Услуги ',
         },
       ],
       cards: [
@@ -97,7 +97,7 @@ export default {
   },
   head() {
     return {
-      title: 'Services',
+      title: 'Услуги',
       meta: [
         {
           hid: 'description',

@@ -21,7 +21,7 @@
             </div>
             <p class="mb-5">{{ carousel.subHeading }}</p>
             <v-btn :x-large="$vuetify.breakpoint.smAndUp" class="my-3 primary"
-              >Get Started</v-btn
+              >Оформить заказ</v-btn
             >
             <span class="mx-2 my-4"></span>
             <v-btn
@@ -29,8 +29,8 @@
               text
               class="my-3"
               outlined
-              ><v-icon left large color="primary">mdi-play</v-icon>Learn
-              More</v-btn
+              ><v-icon left large color="primary">mdi-play</v-icon>Больше
+              товаров</v-btn
             >
           </div>
         </v-container>
@@ -46,27 +46,27 @@ export default {
       carouselsData: [
         {
           src: 'pexels-andrea-piacquadio-3884440.jpg',
-          heading: ' PROMOTE YOUR BUSINESS WITH US ',
+          heading: ' Лучшие напольные покрытия в AlexAnn ',
           subHeading:
-            'Infographic hypotheses influencer user experience Long madel ture gen-z paradigm shift client partner network product seilans solve management influencer analytics leverage virality. incubator seed round massmarket. buyer agile development growth hacking business-to-consumer ecosystem ',
+            'На сегодняшний день, мы предлагаем Вам строительные и отделочные материалы: ламинат, линолеум, межкомнатные и входные двери, керамическую плитку. Оказываем услуги по всем видам отделочных работ и монтажу натяжных потолков любой сложности. Работаем как с физическими, так и с юридическими лицами. ',
         },
         {
           src: 'pexels-peter-olexa-4012966.jpg',
-          heading: ' LOREM IPSUM DOLOR SIT AMET CONSEETU',
+          heading: ' Отделочные работы ',
           subHeading:
-            'Litora a interdum primis. Lectus facilisi sit cum arcu aliquam velit imperdiet sapien suspendisse at vel facilisis. Facilisis metus, curae; nibh mi orci et. Fringilla sociis magna rutrum bibendum arcu.',
+            'Отделочные работы в квартире, коттедже играют огромную роль в комплексе ремонтных работ. Начиная ремонт в своей квартире, Вы мысленно представляете картинку, как будет выглядеть ваша квартира или ваш дом после окончания всех работ. Если по окончанию ремонта ваша квартира или дом смотрятся достойно, значит не зря вложены деньги и потрачено время.',
         },
         {
           src: 'pexels-thirdman-5961072.jpg',
-          heading: ' Build your website with this Theme ',
+          heading: ' Большой выбор линолеума ',
           subHeading:
-            'Tellus cum turpis natoque id justo interdum tincidunt faucibus aptent congue pellentesque. Proin luctus orci netus! Scelerisque parturient cursus donec parturient et, luctus aptent habitant aliquet felis. Sapien placerat ultricies.',
+            'Линолеум — практичное, износостойкое покрытие из искусственных и натуральных материалов для пола в любом помещении. По цене и уходу этот материал превзойдет ламинат или паркет, а потому купить напольное покрытие в нашем магазине будет оптимальным выбором.',
         },
         {
           src: 'pexels-andrea-piacquadio-3830745.jpg',
-          heading: ' URNA TINCIDUNT MATTIS TORTOR ',
+          heading: ' Новогодняя Акция ',
           subHeading:
-            'Dapibus cras, ligula suspendisse potenti himenaeos mus volutpat pulvinar est facilisi. Vehicula malesuada parturient euismod litora mollis penatibus. Penatibus cum nullam facilisi enim nisi ac suspendisse. Ullamcorper ad amet netus.',
+            'Весь январь скидки 100% на всю продукция и 101% на услуги!',
         },
       ],
     }
