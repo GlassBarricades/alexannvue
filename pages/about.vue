@@ -38,7 +38,7 @@
           </v-row>
         </v-container>
 
-        <v-row no-gutters>
+        <!-- <v-row no-gutters>
           <v-col cols="12" md="6" align-self="center">
             <v-img
               max-height="800"
@@ -101,7 +101,7 @@
               </p>
             </div>
           </v-col>
-        </v-row>
+        </v-row> -->
       </v-col>
     </v-row>
   </section>

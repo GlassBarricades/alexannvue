@@ -90,7 +90,7 @@
               dense
               flat
               outlined
-              placeholder="Search..."
+              placeholder="Поиск ..."
               append-icon="mdi-magnify"
               class="mb-6"
               hide-details
@@ -100,7 +100,7 @@
               <div
                 class="subtitle font-weight-black text-uppercase text-center mt-4"
               >
-                Categories
+                Категории
               </div>
               <v-list dense>
                 <v-list-item-group color="primary">
@@ -174,7 +174,7 @@ export default {
       heroAlt: [
         {
           src: 'pexels-andrea-piacquadio-3884440.jpg',
-          heading: ' Blog ',
+          heading: ' Блог ',
         },
       ],
       posts: [
@@ -249,7 +249,7 @@ export default {
   },
   head() {
     return {
-      title: 'Blog',
+      title: 'Блог',
       meta: [
         {
           hid: 'description',

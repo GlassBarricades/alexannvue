@@ -18,14 +18,14 @@ export default {
       heroAlt: [
         {
           src: 'pexels-andrea-piacquadio-3884440.jpg',
-          heading: ' Pricing ',
+          heading: ' Каталог ',
         },
       ],
     }
   },
   head() {
     return {
-      title: 'Pricing and Plans',
+      title: 'Цены',
       meta: [
         {
           hid: 'description',
